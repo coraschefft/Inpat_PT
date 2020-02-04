@@ -1,0 +1,18 @@
+Author Year Selection Performance Detection Attrition Reporting
+Haukkson	2017	1	0.5	0	0	0.5	
+Köhler	2013	1	0.5	0	1	0.5
+Rieu	2011	0	0	0	0	0.5
+Schramm	2007	0	0.5	0	0	0.5
+Hopko	2003	0	0.5	0	0	0.5
+Lemmens	2009	0	0.5	0	0	0.5
+Nickel	2004	0	0	0	1	0.5
+Miller	1989	0.5	0.5	0.5	0	1	
+Bowers	1993	0.5	0.5	0	0	0.5
+Bowers 	1990	1	0.5	0	0.5	0.5	
+Brand	1992	1	0.5	0	0	0.5
+DeJong	1986	1	0.5	1	1	0.5
+Barth	2005	0	0.5	0	1	0.5
+Hautzinger	1996	0	0.5	0	0	0
+DeRoten	2017	0	0.5	0	0	0	
+DeJong-Meyer	1996	0	0	0	1	0
+
